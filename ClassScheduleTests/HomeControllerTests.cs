@@ -9,7 +9,7 @@ namespace ClassScheduleTests
 {
     public class HomeControllerTests
     {
-        /*Needing to dping something to upload*/
+        
         [Fact]
         public void IndexActionMethod_ReturnsAViewResult()
         {
